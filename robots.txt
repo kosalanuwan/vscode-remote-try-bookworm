@@ -1,0 +1,1 @@
+Sitemap: http://kosalanuwa.github.io/vscode-remote-try-bookworm/sitemap.xml

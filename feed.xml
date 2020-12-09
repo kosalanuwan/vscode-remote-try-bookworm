@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bookworm</title>
+    <description>Jekyll theme for books and creative writing that emphasizes content rather than aesthetic fluff.</description>
+    <link>http://kosalanuwa.github.io/vscode-remote-try-bookworm/</link>
+    <atom:link href="http://kosalanuwa.github.io/vscode-remote-try-bookworm/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Chapter 1</title>
+        <description>The Setup</description>
+        <pubDate>Wed, 09 Dec 2020 19:22:13 +0000</pubDate>
+        <link>http://kosalanuwa.github.io/vscode-remote-try-bookworm/chapters/01/</link>
+        <guid isPermaLink="true">http://kosalanuwa.github.io/vscode-remote-try-bookworm/chapters/01/</guid>
+      </item>
+    
+      <item>
+        <title>Chapter 2</title>
+        <description>The Inciting Incident</description>
+        <pubDate>Wed, 09 Dec 2020 19:22:13 +0000</pubDate>
+        <link>http://kosalanuwa.github.io/vscode-remote-try-bookworm/chapters/02/</link>
+        <guid isPermaLink="true">http://kosalanuwa.github.io/vscode-remote-try-bookworm/chapters/02/</guid>
+      </item>
+    
+      <item>
+        <title>Chapter 3</title>
+        <description>Place your scene(s) setting here</description>
+        <pubDate>Wed, 09 Dec 2020 19:22:13 +0000</pubDate>
+        <link>http://kosalanuwa.github.io/vscode-remote-try-bookworm/chapters/03/</link>
+        <guid isPermaLink="true">http://kosalanuwa.github.io/vscode-remote-try-bookworm/chapters/03/</guid>
+      </item>
+    
+      <item>
+        <title>Chapter 4</title>
+        <description>Place your scene(s) setting here</description>
+        <pubDate>Wed, 09 Dec 2020 19:22:13 +0000</pubDate>
+        <link>http://kosalanuwa.github.io/vscode-remote-try-bookworm/chapters/04/</link>
+        <guid isPermaLink="true">http://kosalanuwa.github.io/vscode-remote-try-bookworm/chapters/04/</guid>
+      </item>
+    
+      <item>
+        <title>Chapter 5</title>
+        <description>The First Slap</description>
+        <pubDate>Wed, 09 Dec 2020 19:22:13 +0000</pubDate>
+        <link>http://kosalanuwa.github.io/vscode-remote-try-bookworm/chapters/05/</link>
+        <guid isPermaLink="true">http://kosalanuwa.github.io/vscode-remote-try-bookworm/chapters/05/</guid>
+      </item>
+    
+      <item>
+        <title>Chapter 6</title>
+        <description>The Second Slap Setup</description>
+        <pubDate>Wed, 09 Dec 2020 19:22:13 +0000</pubDate>
+        <link>http://kosalanuwa.github.io/vscode-remote-try-bookworm/chapters/06/</link>
+        <guid isPermaLink="true">http://kosalanuwa.github.io/vscode-remote-try-bookworm/chapters/06/</guid>
+      </item>
+    
+      <item>
+        <title>Chapter 7</title>
+        <description>Place your scene(s) setting here</description>
+        <pubDate>Wed, 09 Dec 2020 19:22:13 +0000</pubDate>
+        <link>http://kosalanuwa.github.io/vscode-remote-try-bookworm/chapters/07/</link>
+        <guid isPermaLink="true">http://kosalanuwa.github.io/vscode-remote-try-bookworm/chapters/07/</guid>
+      </item>
+    
+      <item>
+        <title>Chapter 8</title>
+        <description>Place your scene(s) setting here</description>
+        <pubDate>Wed, 09 Dec 2020 19:22:13 +0000</pubDate>
+        <link>http://kosalanuwa.github.io/vscode-remote-try-bookworm/chapters/08/</link>
+        <guid isPermaLink="true">http://kosalanuwa.github.io/vscode-remote-try-bookworm/chapters/08/</guid>
+      </item>
+    
+      <item>
+        <title>Chapter 9</title>
+        <description>Place your scene(s) setting here</description>
+        <pubDate>Wed, 09 Dec 2020 19:22:13 +0000</pubDate>
+        <link>http://kosalanuwa.github.io/vscode-remote-try-bookworm/chapters/09/</link>
+        <guid isPermaLink="true">http://kosalanuwa.github.io/vscode-remote-try-bookworm/chapters/09/</guid>
+      </item>
+    
+      <item>
+        <title>Chapter 10</title>
+        <description>Place your scene(s) setting here</description>
+        <pubDate>Wed, 09 Dec 2020 19:22:13 +0000</pubDate>
+        <link>http://kosalanuwa.github.io/vscode-remote-try-bookworm/chapters/10/</link>
+        <guid isPermaLink="true">http://kosalanuwa.github.io/vscode-remote-try-bookworm/chapters/10/</guid>
+      </item>
+    
+  </channel>
+</rss>
